@@ -26,9 +26,6 @@ The system operates on the principle of **piezoelectric energy harvesting** or *
 6. Load (LEDs, mobile charger, etc.)
 7. Display Module (to show the energy generated, optional)
 
-## Circuit Diagram
-(Include a simple circuit diagram showing the connection of piezoelectric sensors, rectifier, battery, and load.)
-
 ## Implementation
 1. **Setup the Footstep Platform**: Install piezoelectric plates or a mechanical pressure pad under a walking platform.
 2. **Energy Harvesting**: As people walk, mechanical pressure gets converted into electrical energy.
@@ -62,4 +59,3 @@ The **Advanced Footstep Power Generation** project demonstrates a practical appr
 - **Author**: Kavya
 - **Technologies Used**: Piezoelectric Sensors, Rectifier Circuit, Microcontroller (optional), Battery Storage
 - **Status**: Prototype/Working Model
-- **License**: MIT License
